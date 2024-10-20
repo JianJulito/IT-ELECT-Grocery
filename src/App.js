@@ -6,7 +6,7 @@ import GroceryList from './components/GroceryList';
 const App = () => {
     return (
         <div>
-            <GroceryList />s
+            <GroceryList />
         </div>
     );
 };
